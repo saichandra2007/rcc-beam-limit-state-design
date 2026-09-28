@@ -43,3 +43,4 @@ g++ -std=c++11 rcc_beam_system.cpp -o rcc_beam_system
 
 # Run the executable
 ./rcc_beam_system
+# rcc-beam-limit-state-design
